@@ -16,6 +16,6 @@
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
     "shelljs": "^0.8.3",
-    "ua-parser-js": "^0.7.20"
+    "ua-parser-js": "^0.7.24"
   }
 }
